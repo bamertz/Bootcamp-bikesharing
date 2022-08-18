@@ -5,6 +5,7 @@ Analyzed the NYC Citibike data to show potential Des-Moines bikesharing investor
 [Tableau Dashboard](https://public.tableau.com/views/NYCCitiBikeAnalysis_16607816316370/CitiBikeDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
+
 Total Number of Rides:
 ![Total Number of Rides](https://github.com/bamertz/bikesharing/blob/384d48da5a7698937811e90f2e7dfbbb3e1acda7/Results/NumberOfRides.png)
 
