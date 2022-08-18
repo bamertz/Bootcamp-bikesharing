@@ -19,10 +19,10 @@ Trips By Gender (By Weekday For Each Hour)
 
 
 User Trips By Gender By Weekday
-
+![User Trips By Gender By Weekday](User Trips By Gender By Weekday.png)
 
 Total Number of Rides
-
+![Total Number of Rides](Results/Total Number of Rides.png)
 
 August Peak Hours
 ![August Peak Hours](Results/August Peak Hours.png)
