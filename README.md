@@ -7,24 +7,31 @@ Analyzed the NYC Citibike data to show potential Des-Moines bikesharing investor
 ## Results
 
 Total Number of Rides:
+
 ![Total Number of Rides](https://github.com/bamertz/bikesharing/blob/384d48da5a7698937811e90f2e7dfbbb3e1acda7/Results/NumberOfRides.png)
 
 August Peak Hours:
+
 ![August Peak Hours](https://github.com/bamertz/bikesharing/blob/384d48da5a7698937811e90f2e7dfbbb3e1acda7/Results/AugustPeakHours.png)
 
 Checkout Times Per User:
+
 ![Checkout Times Per User](https://github.com/bamertz/bikesharing/blob/384d48da5a7698937811e90f2e7dfbbb3e1acda7/Results/CheckoutTimesPerUser.png)
 
 Checkout Times By Gender:
+
 ![Checkout Times By Gender](https://github.com/bamertz/bikesharing/blob/384d48da5a7698937811e90f2e7dfbbb3e1acda7/Results/CheckoutTimesByGender.png)
 
 Trips By Weekday For Each Hour:
+
 ![Trips By Weekday For Each Hour](https://github.com/bamertz/bikesharing/blob/384d48da5a7698937811e90f2e7dfbbb3e1acda7/Results/TripsByWeekdayForEachHour.png)
 
 Trips By Gender By Weekday For Each Hour:
+
 ![Trips By Gender By Weekday For Each Hour](https://github.com/bamertz/bikesharing/blob/384d48da5a7698937811e90f2e7dfbbb3e1acda7/Results/TripsByGenderByWeekdayForEachHour.png)
 
 User Trips By Gender By Weekday:
+
 ![User Trips By Gender By Weekday](https://github.com/bamertz/bikesharing/blob/384d48da5a7698937811e90f2e7dfbbb3e1acda7/Results/UserTripsByGenderByWeekday.png)
 
 
